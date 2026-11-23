@@ -1,0 +1,1892 @@
+[
+ {
+  "name": "Martial arts: Bear",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-6; armor class 8 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Lock 1,2,3,4; Strike 1,2; Vital area 2; Movement 3; Mental 3 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Cat",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d4",
+    "l": "1d4",
+    "smRange": "1-4",
+    "lRange": "1-4"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 3/1; damage 1-4; armor class 6 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Movement 1,5; Throw 1,2; Push 2; Kick 3; Mental 2,4 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Cobra",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d8",
+    "l": "1d8",
+    "smRange": "1-8",
+    "lRange": "1-8"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 1/1; damage 1-8; armor class 8 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Vital area 1,2,3,4; Strike 1,2; Lock 1,3 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Crane",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 1/1; damage 1-6; armor class 5 while fighting in this style; principal attack: Hand & foot.</p><p>Special maneuvers taught: Vital area 1,2,3; Weapon 1,2; Strike 2; Movement 4; Mental 1,3 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: Varies.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Dragon",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d8",
+    "l": "1d8",
+    "smRange": "1-8",
+    "lRange": "1-8"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 1/1; damage 1-8; armor class 8 while fighting in this style; principal attack: Foot.</p><p>Special maneuvers taught: Kick 1,2,3; Strike 1,2; Lock 4; Mental 5 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: Kau sin ke.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Dragonfly",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d4",
+    "l": "1d4",
+    "smRange": "1-4",
+    "lRange": "1-4"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 1/1; damage 1-4; armor class 5 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Push 1,2,3; Vital area 3; Movement 4; Mental 1,2,5,6 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p><em>Mental 5 in this style is not Ironskin but Flowing Water: -2 to armor class (better) from speed and agility, only unarmored and not carrying heavy gear.</em></p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Hawk",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 3/1; damage 1-6; armor class 8 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Strike 2,3; Lock 1; Vital area 1; Kick 2 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Leopard",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-6; armor class 7 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Movement 1,5,6; Strike 1,3; Kick 2; Lock 2; Mental 2 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Mantis",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-6; armor class 7 while fighting in this style; principal attack: Foot.</p><p>Special maneuvers taught: Kick 1,2,3; Lock 1,2; Movement 4,5; Mental 1 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Monkey",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-6; armor class 6 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Throw 1,2,3,4; Weapon 1; Movement 2; Lock 1,3 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: Bo stick, jo sticks.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Snake",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d4",
+    "l": "1d4",
+    "smRange": "1-4",
+    "lRange": "1-4"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-4; armor class 6 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Movement 1,2,4,7; Lock 1; Vital area 1,3; Throw 2 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Tiger",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Animal (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d8",
+    "l": "1d8",
+    "smRange": "1-8",
+    "lRange": "1-8"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-8; armor class 8 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Strike 1,2,3; Lock 1; Kick 2; Mental 2 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Bone Breaker",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Specialized (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-6; armor class 7 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Strike 1,2; Vital area 1; Weapon 2; Lock 3; Mental 2,4,5 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: Ninja-favored weapons.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Dark Hand",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Specialized (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-6; armor class 6 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Vital area 1,2,3; Strike 1; Weapon 1,2; Throw 3; Mental 2,4 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: Ninja-favored weapons.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Eight-Legged Man",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Specialized (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d4",
+    "l": "1d4",
+    "smRange": "1-4",
+    "lRange": "1-4"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 3/1; damage 1-4; armor class 8 while fighting in this style; principal attack: Foot.</p><p>Special maneuvers taught: Movement 1,2,4,5; Kick 1,3; Throw 2; Mental 2 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Eye of the Hurricane",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Specialized (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d4",
+    "l": "1d4",
+    "smRange": "1-4",
+    "lRange": "1-4"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 1/1; damage 1-4; armor class 5 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Throw 1,2,4; Push 1; Movement 3,6; Mental 1,2,3,5 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p><em>Mental 5 in this style is not Ironskin but Flowing Water: -2 to armor class (better) from speed and agility, only unarmored and not carrying heavy gear.</em></p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Fist within Glove",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Specialized (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d4",
+    "l": "1d4",
+    "smRange": "1-4",
+    "lRange": "1-4"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 1/1; damage 1-4; armor class 6 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Lock 2,3,4; Weapon 1,2; Push 1; Throw 4; Mental 1,2,3 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: Varies.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Oaken Grip",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Specialized (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-6; armor class 7 while fighting in this style; principal attack: Foot.</p><p>Special maneuvers taught: Kick 1,2,3; Weapon 1; Lock 2,3; Movement 4; Mental 5 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: Varies.</p><p><em>This style's locks need one of its weapons (three-piece rod, nunchaku or tonfa); without one, a lock is -2 to hit.</em></p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Silken Spear",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Specialized (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d4",
+    "l": "1d4",
+    "smRange": "1-4",
+    "lRange": "1-4"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 1/1; damage 1-4; armor class 6 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Weapon 1,2,3; Vital area 1; Movement 2,4; Throw 4; Mental 1,2,3 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: Spear, naginata.</p><p><em>Movement 4 in this style is Arrow Cutting: deflecting missiles with a weapon (spear or naginata) rather than the hands.</em></p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Sword Breaker",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Specialized (Dragon #127)",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #127 p.48-55 (Tables 1-2)",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-6; armor class 8 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Lock 1,2,3; Weapon 1,2; Strike 2; Throw 3 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: Sai, jitte.</p><p class=\"oa-src\">Dragon #127 p.48-55 (Tables 1-2). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Ninjutsu (sample)",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Other",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #139 p.60",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-6; armor class 8 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Lock 1, 3; Movement 1, 5; Throw 2; Vital area 3 (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: Nunchaku, kusari-gama (the DM might allow ninja weapons to be taught in the style).</p><p><em>A sample ninja clan style. A ninja must find a ninja master, spends a slot for the basics, and improves it only with slots from his ninja class.</em></p><p class=\"oa-src\">Dragon #139 p.60. The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Martial arts: Sumai (sumotori)",
+  "type": "weapon",
+  "img": "icons/svg/combat.svg",
+  "folder": "Styles/Other",
+  "system": {
+   "attackType": "melee",
+   "damage": {
+    "sm": "1d6",
+    "l": "1d6",
+    "smRange": "1-6",
+    "lRange": "1-6"
+   },
+   "speed": "",
+   "acAdj": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "missile": {
+    "rate": "",
+    "short": null,
+    "medium": null,
+    "long": null,
+    "acAdj": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "natural": true,
+   "weight": 0,
+   "weightText": "",
+   "cost": "",
+   "source": "Dragon #157 p.36 (Carpenter, Table 3)",
+   "ammo": "",
+   "description": "<p>Attacks per round 2/1; damage 1-6; armor class 8 while fighting in this style; principal attack: Hand.</p><p>Special maneuvers taught: Lock 1, 2, 3, 4; Strike 1 (Strong Slap); Vital area 1 (Stunning Slap); Throw 3; Movement 3; Lock 5 (Crushing Hug) (numbers are the maneuvers' places in OA Table 70).</p><p>Weapons: None.</p><p><em>Only sumotori (Carpenter) learn sumai, gaining its maneuvers by level (see the class). Attacks printed \"211\".</em></p><p class=\"oa-src\">Dragon #157 p.36 (Carpenter, Table 3). The style's number of attacks applies only when fighting in this style (OA p.102). Monks add the extra attacks and damage of OA Table 21.</p>"
+  }
+ },
+ {
+  "name": "Scissors Kick",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Kick",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Kick",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Kick 4 (hard/soft).</em></p><p>An extremely difficult kick: the martial artist leaps up and kicks the head or upper body of two targets at once, which must be within 6 feet of each other. Each kick is at -2 to hit and does normal martial arts damage. Missing both, he loses his next melee attack regaining his balance. Suits styles like tae kwon do.</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Crushing Hug",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Lock",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Lock",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Lock 5 (hard).</em></p><p>Used mainly by sumo wrestlers, but the DM may allow it in other styles. A powerful bear hug that does 3-30 damage a round until the victim dies or breaks free; the victim breaks it with a successful to-hit roll at -4. A failed hug gives -4 on the martial artist's next attack. He must be strong and massive: strength 16 and weight 250 lbs at least. (In Carpenter's sumotori article, Dragon #157, the victim breaks free with a bend bars/lift gates roll instead.)</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Double-Fist Punch",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Strike",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Strike",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Strike 4 (hard/soft).</em></p><p>A two-fisted attack landing blows on two places on one opponent at once, each at -1 to hit and doing normal damage. If both land, the defender saves versus paralyzation at -4 or suffers a stun or incapacitation as if the martial artist had rolled a natural 20 (OA p.105): the modified roll is compared with his hit dice or level. A stun lasts 2-12 rounds; incapacitation 1-3 hours. Aimed at head and torso it is a U-Punch or Parallel Punch; at front and back, a Scissors Punch.</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Crushing Drop",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Throw",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Throw",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Throw 5 (hard).</em></p><p>Instead of throwing the opponent a distance, the martial artist drops him head and shoulders first with crushing force. On a hit the foe lands 1-2 feet away, takes double damage, and must save versus paralyzation or be knocked unconscious for 2-8 rounds. On a miss the attacker is thrown to the ground himself and automatically loses initiative next round while he gets up.</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Arrow Cutting",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Weapon",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Weapon",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Weapon 4 (soft).</em></p><p>Like Missile Deflection (Movement 4), but the martial artist blocks or deflects missiles with a martial arts weapon he has studied; without one, the attempt is at -4 on the saving throw. Monks have this skill automatically as part of their Missile Deflection. Caught or trapped missiles can often be used: a shuriken pried from a bo stick and thrown back, a spear caught in a nunchaku chain and kept. Prying a missile free takes a melee round. (First described for the Silken Spear style, Dragon #127.)</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Throwing Mastery",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Weapon",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Weapon",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Weapon 5 (hard/soft).</em></p><p>Lets the character throw martial arts weapons not normally thrown: fang, jitte, jo stick, kiseru, nunchaku, sai, siangkam and tonfa, all with the range of a thrown dagger and doing normal damage. A master throws a sai like a skilled knife thrower, or a bo stick like a light club.</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Slowed Aging",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training 7 (soft).</em></p><p>Through exercises and exotic breathing the character slows his aging as if wearing a phylactery of long years.</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Light Step",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training II",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training II",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training II 1 (soft).</em></p><p>Moving at half his normal rate, the martial artist walks so lightly he has the effect of a pass without trace spell.</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Controlled Breathing",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training II",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training II",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training II 2 (soft).</em></p><p>Intensive breathing exercises relax mind and body and control the body's other functions: +2 to saves against all forms of fear, and he is always as if under an endure cold/heat spell, since he controls his body temperature.</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Pause and Silence",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training II",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training II",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training II 3 (hard/soft).</em></p><p>The martial artist gives up one martial arts attack to study his opponent and makes an ordinary attack roll. On a success he has found a weakness in the opponent's style: +1 on all attacks against that opponent for the rest of the melee. A failure costs only the attack. He can try as often as he likes, but the bonus never goes above +1, and against the same opponent in a later melee he must find the weakness again.</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Quick Strike",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training II",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training II",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training II 4 (hard/soft).</em></p><p>+1 to all initiative rolls. Kensai already have this at 1st level and can't improve their initiative further with it.</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Flowing Water",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training II",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training II",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training II 5 (soft).</em></p><p>Improves the martial artist's armor class by 2 through great speed, agility and evasion. (First given as a version of Ironskin in Dragon #127, where it works only unarmored and without heavy gear.)</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Resuscitation",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training II",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training II",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training II 6 (soft).</em></p><p>Gentle taps to nerve centers along the spine revive a semi-conscious or unconscious person (sometimes called katsu). A successful dexterity check on 1d20 wakes someone stunned or paralyzed by a martial arts attack; reviving someone unconscious or incapacitated needs a dexterity check with \"a +2 penalty\" (as printed). Takes one melee round per person.</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Suppressed Desire",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training II",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training II",
+   "target": 0,
+   "source": "Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training II 7 (soft).</em></p><p>Like the minor psionic discipline mind over body (PHB p.113): the martial artist goes without food, water, rest or sleep for two consecutive days per level. Afterward he must spend as many days in rest and peaceful meditation before he can use it again.</p><p class=\"oa-src\">Dragon #164 p.11-12 (Carpenter, \"Flying Feet and Lightning Hands\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Double Kick",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Kick",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Kick",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Kick 4 (hard/soft).</em></p><p>With one movement of one foot, the attacker strikes two opponents at once if both are in range. One to-hit roll is made and must be enough to hit the one with the better (lower) armor class. If it misses either, the kick fails entirely and the attacker loses all his actions next round. Normal damage to both.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Featherwalk",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Movement",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Movement",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Movement 8 (soft).</em></p><p>The character crosses any surface that can hold his weight in complete silence, and opponents' chance to track him drops by 25%. It needs concentration and allows only half normal movement.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Great Shield",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Movement",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Movement",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Movement 9 (hard/soft).</em></p><p>The martial artist bursts into a frenzy of blocking and deflecting, stopping blows and missiles completely: up to three attacks a round, plus one more per level of mastery, for one round per level of mastery. He can't attack or move from the spot meanwhile. It works only against bipeds under 10 feet tall (not snakes, giants or dragons, for example).</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Reflection",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Push",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Push",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Push 4 (soft).</em></p><p>Declared at the start of a round. Against a blow from a blunt weapon (including hands and feet) the opponent's attack automatically hits and he rolls damage; if the martial artist then makes a successful attack roll, all the damage is turned back on the opponent, or on another foe within reach. If his roll fails, he takes the damage normally.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Thunderpunch",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Strike",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Strike",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Strike 4 (hard).</em></p><p>The only action possible that round. Triple normal damage, and the opponent saves versus breath weapon or is stunned for 1-6 rounds. A miss leaves the attacker unable to attack or defend for a round.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Thunderclap",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Strike",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Strike",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Strike 5 (hard/soft).</em></p><p>The martial artist claps his hands together with great force, with the effect of an elemental burst (air) spell (OA p.75). Glass and pottery within 10 feet must save versus crushing blow or shatter.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Shattertouch",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Vital Area",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Vital Area",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Vital Area 5 (soft).</em></p><p>After a round of concentrated study, a light touch finds the flaws in wood or stone; a single blow the next round can shatter up to a cubic foot if the martial artist makes a save versus paralyzation. A failure leaves the material whole and does 2-8 damage to him.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Stillness",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training 7 (soft).</em></p><p>Great discipline lets the character stay utterly still for an hour per level of mastery, 80% undetectable if there is some cover. He goes from still to active instantly. With makeup he could pass for a mannequin or painted statue.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Balance",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training 8 (soft).</em></p><p>A 20% chance to walk a tightrope, plus 5% per level of mastery (ninja simply add 5% per level). After a round of concentration he gains perfect balance for 2-5 turns: 100% on tightropes, balancing large awkward objects on a fingertip, balancing on one hand, or walking on his hands at half speed.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Summon Strength",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training 9 (soft).</em></p><p>After a round of concentration, strength becomes 18/00 for 1-4 rounds. A turn of rest is needed immediately afterward.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Contortion",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Mental and Physical Training",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Mental and Physical Training",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Mental and Physical Training 10 (soft).</em></p><p>The ultimate in flexibility: the character fits into a space as small as 4 cubic feet or through a hole 12 inches across, and slips bonds or shackles 90% of the time. A turn of concentration before, and a turn of rest after.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Blind",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Slash",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Slash",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Slash 1 (hard/soft).</em></p><p>A cut above one eye: normal damage and a 25% chance of temporary blindness in that eye (+2 to armor class, i.e. worse, and -2 to hit). Both eyes blinded: +4 to armor class and -4 to hit. It lasts until the wound is treated; 2% chance it is permanent.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Vein",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Slash",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Slash",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Slash 2 (hard/soft).</em></p><p>Only 1 damage at first, then 1 a round from blood loss until the wound is bound or healed. Further hits add to the loss.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Artery",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Slash",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Slash",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Slash 3 (hard/soft).</em></p><p>Nicks a major artery: 1 damage, then 3 a round until the wound is tended. A miss does no damage and costs the attacker his next attack.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Heavy Blow",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Blunt",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Blunt",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Blunt 1 (hard).</em></p><p>Double damage. A miss costs the martial artist his next attack.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Limb Paralysis",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Blunt",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Blunt",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Blunt 2 (hard).</em></p><p>Like the lock Incapacitator (OA p.103): the blow paralyzes a finger, hand, arm, foot or leg for 24 hours and does double damage (a paralyzed limb's effects are under the wu jen spell withering palm, OA p.94). A save versus paralyzation when struck means only normal damage.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Stunning Blow",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Blunt",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Blunt",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Blunt 3 (hard).</em></p><p>Normal damage, and the victim saves versus paralyzation or is stunned and can't attack for 1-4 rounds. A miss costs the martial artist his next attack.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Great Blow",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Blunt",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Blunt",
+   "target": 0,
+   "source": "Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\")",
+   "notes": "",
+   "description": "<p><em>Blunt 4 (hard).</em></p><p>The only attack that round: triple damage, and the victim saves versus paralyzation or is knocked out for 3-6 rounds. A miss costs the attacker his next two attacks.</p><p class=\"oa-src\">Dragon #164 p.16-17 (Thauberger, \"Things Your Sensei Never Taught You\"). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Strong Slap",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Strike",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Strike",
+   "target": 0,
+   "source": "Dragon #157 p.35 (Carpenter)",
+   "notes": "",
+   "description": "<p><em>Strike 1.</em></p><p>The sumotori's version of Iron Fist: a powerful slap with the effect of an Iron Fist blow. Not used in a civilized sumo match.</p><p class=\"oa-src\">Dragon #157 p.35 (Carpenter). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Stunning Slap",
+  "type": "proficiency",
+  "img": "icons/svg/combat.svg",
+  "folder": "Maneuvers/Vital Area",
+  "system": {
+   "group": "oaManeuver",
+   "slots": 1,
+   "ability": "",
+   "check": false,
+   "modifier": 0,
+   "everyUse": false,
+   "improvements": 0,
+   "specialty": "Vital Area",
+   "target": 0,
+   "source": "Dragon #157 p.35 (Carpenter)",
+   "notes": "",
+   "description": "<p><em>Vital Area 1.</em></p><p>The sumotori's version of Stunning Touch: a head slap with the effect of a Stunning Touch.</p><p class=\"oa-src\">Dragon #157 p.35 (Carpenter). Rewritten in plain words.</p>"
+  }
+ }
+]

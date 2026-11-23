@@ -1,0 +1,51 @@
+{
+  "id": "frpg1e-oa-dragon",
+  "title": "1e FRPG: OA Dragon",
+  "description": "An optional add-on for OA Lite (1e FRPG): OA material from Dragon Magazine issues 121, 127, 130, 139, 146, 151, 157 and 164, restated in plain words. Adds the genin, geisya, piao shih and two sumotori classes, the geisya spell list, OA spells adapted for PHB clerics, druids, magic-users and illusionists, twenty martial arts styles and new special maneuvers, new arrows with per-arrow armor class adjustments, Chinese ships, lotus, police and monk orders, and the OA Sage Advice columns as clarifications. Honor, birthrights and setting details are left out, as in OA Lite.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Jeremy Clifford"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "frpg1e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.48.0"
+        },
+        "manifest": "https://github.com/gmjeremynow/frpg1e/releases/latest/download/system.json"
+      }
+    ],
+    "requires": [
+      {
+        "id": "frpg1e-oa-lite",
+        "type": "module",
+        "manifest": "https://github.com/gmjeremynow/frpg1e-oa-lite/releases/latest/download/module.json",
+        "compatibility": {
+          "minimum": "0.1.1"
+        }
+      }
+    ],
+    "conflicts": [
+      {
+        "id": "frpg1e-oa",
+        "type": "module",
+        "reason": "OA Dragon is built for OA Lite, which stays off while the full OA module is active."
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/dragon.mjs"
+  ],
+  "library": false,
+  "url": "https://github.com/gmjeremynow/frpg1e-oa-dragon",
+  "manifest": "https://github.com/gmjeremynow/frpg1e-oa-dragon/releases/latest/download/module.json",
+  "download": "https://github.com/gmjeremynow/frpg1e-oa-dragon/releases/download/v0.1.0/frpg1e-oa-dragon.zip"
+}

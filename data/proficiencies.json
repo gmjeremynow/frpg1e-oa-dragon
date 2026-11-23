@@ -1,0 +1,202 @@
+[
+ {
+  "name": "Binding (genin)",
+  "type": "proficiency",
+  "img": "icons/svg/book.svg",
+  "folder": "Genin",
+  "system": {
+   "group": "oaDragon",
+   "slots": 1,
+   "ability": "",
+   "check": true,
+   "modifier": 0,
+   "everyUse": true,
+   "improvements": 0,
+   "specialty": "",
+   "target": 8,
+   "source": "Dragon #121 p.42-43 (Genin, Table 2)",
+   "notes": "",
+   "description": "<p><strong>Base number 8:</strong> roll 8 or more on 1d20. Learning it takes 1 slot; each later slot adds +1 to the roll (never needing less than 3).</p><p>Genin only. Ties a person so that he can't move or struggle without great pain.</p><p class=\"oa-src\">Dragon #121 p.42-43 (Genin, Table 2). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Leaping (genin)",
+  "type": "proficiency",
+  "img": "icons/svg/book.svg",
+  "folder": "Genin",
+  "system": {
+   "group": "oaDragon",
+   "slots": 1,
+   "ability": "",
+   "check": true,
+   "modifier": 0,
+   "everyUse": true,
+   "improvements": 0,
+   "specialty": "",
+   "target": 10,
+   "source": "Dragon #121 p.42-43 (Genin, Table 2)",
+   "notes": "",
+   "description": "<p><strong>Base number 10:</strong> roll 10 or more on 1d20. Learning it takes 1 slot; each later slot adds +1 to the roll (never needing less than 3).</p><p>Genin only. The same as the martial arts special maneuver Leap (Movement 5, OA p.103-104).</p><p class=\"oa-src\">Dragon #121 p.42-43 (Genin, Table 2). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Poison (genin)",
+  "type": "proficiency",
+  "img": "icons/svg/book.svg",
+  "folder": "Genin",
+  "system": {
+   "group": "oaDragon",
+   "slots": 1,
+   "ability": "",
+   "check": true,
+   "modifier": 0,
+   "everyUse": true,
+   "improvements": 0,
+   "specialty": "",
+   "target": 8,
+   "source": "Dragon #121 p.42-43 (Genin, Table 2)",
+   "notes": "",
+   "description": "<p><strong>Base number 8:</strong> roll 8 or more on 1d20. Learning it takes 1 slot; each later slot adds +1 to the roll (never needing less than 3).</p><p>Genin only. Prepares poisons that kill by smell, taste or touch, and knows how to handle and apply them to best effect.</p><p class=\"oa-src\">Dragon #121 p.42-43 (Genin, Table 2). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Running (genin)",
+  "type": "proficiency",
+  "img": "icons/svg/book.svg",
+  "folder": "Genin",
+  "system": {
+   "group": "oaDragon",
+   "slots": 2,
+   "ability": "",
+   "check": true,
+   "modifier": 0,
+   "everyUse": true,
+   "improvements": 0,
+   "specialty": "",
+   "target": 16,
+   "source": "Dragon #121 p.42-43 (Genin, Table 2)",
+   "notes": "",
+   "description": "<p><strong>Base number 16:</strong> roll 16 or more on 1d20. Learning it takes 2 slots; each later slot adds +1 to the roll (never needing less than 3).</p><p>Genin only. By controlling his breath he runs 50 miles without stopping; walking 15 minutes of every hour, 100 miles.</p><p class=\"oa-src\">Dragon #121 p.42-43 (Genin, Table 2). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Side-walking (genin)",
+  "type": "proficiency",
+  "img": "icons/svg/book.svg",
+  "folder": "Genin",
+  "system": {
+   "group": "oaDragon",
+   "slots": 1,
+   "ability": "",
+   "check": true,
+   "modifier": 0,
+   "everyUse": true,
+   "improvements": 0,
+   "specialty": "",
+   "target": 12,
+   "source": "Dragon #121 p.42-43 (Genin, Table 2)",
+   "notes": "",
+   "description": "<p><strong>Base number 12:</strong> roll 12 or more on 1d20. Learning it takes 1 slot; each later slot adds +1 to the roll (never needing less than 3).</p><p>Genin only. Moving his feet sideways at one quarter normal speed halves the chance to track him.</p><p class=\"oa-src\">Dragon #121 p.42-43 (Genin, Table 2). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Signaling (genin)",
+  "type": "proficiency",
+  "img": "icons/svg/book.svg",
+  "folder": "Genin",
+  "system": {
+   "group": "oaDragon",
+   "slots": 1,
+   "ability": "",
+   "check": true,
+   "modifier": 0,
+   "everyUse": true,
+   "improvements": 0,
+   "specialty": "",
+   "target": 10,
+   "source": "Dragon #121 p.42-43 (Genin, Table 2)",
+   "notes": "",
+   "description": "<p><strong>Base number 10:</strong> roll 10 or more on 1d20. Learning it takes 1 slot; each later slot adds +1 to the roll (never needing less than 3).</p><p>Genin only. Sends short, simple messages with flags, gestures or objects left behind.</p><p class=\"oa-src\">Dragon #121 p.42-43 (Genin, Table 2). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Survival (genin)",
+  "type": "proficiency",
+  "img": "icons/svg/book.svg",
+  "folder": "Genin",
+  "system": {
+   "group": "oaDragon",
+   "slots": 2,
+   "ability": "",
+   "check": true,
+   "modifier": 0,
+   "everyUse": true,
+   "improvements": 0,
+   "specialty": "",
+   "target": 15,
+   "source": "Dragon #121 p.42-43 (Genin, Table 2)",
+   "notes": "",
+   "description": "<p><strong>Base number 15:</strong> roll 15 or more on 1d20. Learning it takes 2 slots; each later slot adds +1 to the roll (never needing less than 3).</p><p>Genin only. Like the barbarian proficiency, but he can provide only for himself.</p><p class=\"oa-src\">Dragon #121 p.42-43 (Genin, Table 2). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Swimming (genin)",
+  "type": "proficiency",
+  "img": "icons/svg/book.svg",
+  "folder": "Genin",
+  "system": {
+   "group": "oaDragon",
+   "slots": 2,
+   "ability": "",
+   "check": true,
+   "modifier": 0,
+   "everyUse": true,
+   "improvements": 0,
+   "specialty": "",
+   "target": 15,
+   "source": "Dragon #121 p.42-43 (Genin, Table 2)",
+   "notes": "",
+   "description": "<p><strong>Base number 15:</strong> roll 15 or more on 1d20. Learning it takes 2 slots; each later slot adds +1 to the roll (never needing less than 3).</p><p>Genin only. As the common proficiency, but he swims silently and can swim upright to hold things out of the water, write or even use a bow.</p><p class=\"oa-src\">Dragon #121 p.42-43 (Genin, Table 2). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Shobu ceremony",
+  "type": "proficiency",
+  "img": "icons/svg/book.svg",
+  "folder": "Sumotori",
+  "system": {
+   "group": "oaDragon",
+   "slots": 1,
+   "ability": "",
+   "check": true,
+   "modifier": 0,
+   "everyUse": true,
+   "improvements": 0,
+   "specialty": "",
+   "target": 13,
+   "source": "Dragon #157 p.37-38 (Wieck)",
+   "notes": "",
+   "description": "<p><strong>Base number 13:</strong> roll 13 or more on 1d20. Learning it takes 1 slot; each later slot adds +1 to the roll (never needing less than 3).</p><p>Sumotori (Wieck). The ritual before every sumo bout; without it a sumotori can't take part in any bout. Failing the roll loses the +3 psychic duel bonus in that bout. See Sumotori (Wieck) in the OA Dragon journals.</p><p class=\"oa-src\">Dragon #157 p.37-38 (Wieck). Rewritten in plain words.</p>"
+  }
+ },
+ {
+  "name": "Paddling",
+  "type": "proficiency",
+  "img": "icons/svg/book.svg",
+  "folder": "Other",
+  "system": {
+   "group": "oaDragon",
+   "slots": 1,
+   "ability": "",
+   "check": true,
+   "modifier": 0,
+   "everyUse": true,
+   "improvements": 0,
+   "specialty": "",
+   "target": 14,
+   "source": "Dragon #130 p.69",
+   "notes": "",
+   "description": "<p><strong>Base number 14:</strong> roll 14 or more on 1d20. Learning it takes 1 slot; each later slot adds +1 to the roll (never needing less than 3).</p><p>Used to race dragon boats, run as a proficiency contest (OA p.52). See The Eastern Sea in the OA Dragon journals.</p><p class=\"oa-src\">Dragon #130 p.69. Rewritten in plain words.</p>"
+  }
+ }
+]

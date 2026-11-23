@@ -1,0 +1,182 @@
+[
+ {
+  "name": "Arrow, bird",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "Ammunition",
+  "system": {
+   "category": "Ammunition",
+   "cost": "25 cp",
+   "source": "Dragon #146 p.80-81",
+   "carried": true,
+   "ammo": "arrow",
+   "weight": 0,
+   "description": "<p>Ammunition. Damage 1-4 (small or man-sized), 1-2 (large).</p><p>A large rounded tip instead of a point, for birds and small creatures a normal head would cut in half. The text says 1-2 damage to any size; Table 4 gives 1-4/1-2.</p><p><strong>Armor class adjustments</strong> (Dragon #146; apply by hand in place of the bow's): daikyu AC 2 -2, AC 3 -1, AC 4 0, AC 5 0, AC 6 0, AC 7 +1, AC 8 +1, AC 9 +2, AC 10 +3; hankyu AC 2 -4, AC 3 -3, AC 4 -2, AC 5 -2, AC 6 -1, AC 7 0, AC 8 0, AC 9 +1, AC 10 +1. Short composite bow: the hankyu figures -1; short bow: -2.</p><p class=\"oa-src\">Dragon #146 p.80-81. Rewritten in plain words; cost converted with OA Table 46.</p>",
+   "quantity": 1,
+   "weightSource": "unspecified",
+   "weightRef": "The article gives no weight"
+  }
+ },
+ {
+  "name": "Arrow, target (training)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "Ammunition",
+  "system": {
+   "category": "Ammunition",
+   "cost": "5 cp",
+   "source": "Dragon #146 p.80-81",
+   "carried": true,
+   "ammo": "arrow",
+   "weight": 0,
+   "description": "<p>Ammunition. Damage 1-3 / 1-2.</p><p>No metal head, just a fire-hardened wooden tip, for training young warriors.</p><p><strong>Armor class adjustments</strong> (Dragon #146; apply by hand in place of the bow's): daikyu AC 2 0, AC 3 0, AC 4 0, AC 5 +1, AC 6 +2, AC 7 +2, AC 8 +3, AC 9 +3, AC 10 +4; hankyu AC 2 -5, AC 3 -4, AC 4 -3, AC 5 -1, AC 6 -1, AC 7 0, AC 8 0, AC 9 +1, AC 10 +2. Short composite bow: the hankyu figures -1; short bow: -2.</p><p class=\"oa-src\">Dragon #146 p.80-81. Rewritten in plain words; cost converted with OA Table 46.</p>",
+   "quantity": 1,
+   "weightSource": "unspecified",
+   "weightRef": "The article gives no weight"
+  }
+ },
+ {
+  "name": "Arrow, hollow-tip (acid)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "Ammunition",
+  "system": {
+   "category": "Ammunition",
+   "cost": "15 gp",
+   "source": "Dragon #146 p.80-81",
+   "carried": true,
+   "ammo": "arrow",
+   "weight": 0,
+   "description": "<p>Ammunition. Damage 1-2 / 1-2.</p><p>Made only by the best arrowsmiths; very rare and found only in large cities. A pottery bulb on the shaft holds grenade powder. Affects a 5-foot circle (DMG p.80 for acid on materials); living targets take another 1-3.</p><p><strong>Armor class adjustments</strong> (Dragon #146; apply by hand in place of the bow's): daikyu AC 2 -1, AC 3 -1, AC 4 0, AC 5 0, AC 6 0, AC 7 +1, AC 8 -1, AC 9 +2, AC 10 +3; hankyu AC 2 -4, AC 3 -3, AC 4 -2, AC 5 -2, AC 6 -1, AC 7 0, AC 8 0, AC 9 +1, AC 10 +1. Short composite bow: the hankyu figures -1; short bow: -2.</p><p class=\"oa-src\">Dragon #146 p.80-81. Rewritten in plain words; cost converted with OA Table 46.</p>",
+   "quantity": 1,
+   "weightSource": "unspecified",
+   "weightRef": "The article gives no weight"
+  }
+ },
+ {
+  "name": "Arrow, hollow-tip (dust)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "Ammunition",
+  "system": {
+   "category": "Ammunition",
+   "cost": "65 cp",
+   "source": "Dragon #146 p.80-81",
+   "carried": true,
+   "ammo": "arrow",
+   "weight": 0,
+   "description": "<p>Ammunition. Damage 1-2 / 1-2.</p><p>Made only by the best arrowsmiths; very rare and found only in large cities. A pottery bulb on the shaft holds grenade powder. The target has +2 on saving throws against the dust in the bulb.</p><p><strong>Armor class adjustments</strong> (Dragon #146; apply by hand in place of the bow's): daikyu AC 2 -1, AC 3 -1, AC 4 0, AC 5 0, AC 6 0, AC 7 +1, AC 8 -1, AC 9 +2, AC 10 +3; hankyu AC 2 -4, AC 3 -3, AC 4 -2, AC 5 -2, AC 6 -1, AC 7 0, AC 8 0, AC 9 +1, AC 10 +1. Short composite bow: the hankyu figures -1; short bow: -2.</p><p class=\"oa-src\">Dragon #146 p.80-81. Rewritten in plain words; cost converted with OA Table 46.</p>",
+   "quantity": 1,
+   "weightSource": "unspecified",
+   "weightRef": "The article gives no weight"
+  }
+ },
+ {
+  "name": "Arrow, hollow-tip (flash powder)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "Ammunition",
+  "system": {
+   "category": "Ammunition",
+   "cost": "50 sp",
+   "source": "Dragon #146 p.80-81",
+   "carried": true,
+   "ammo": "arrow",
+   "weight": 0,
+   "description": "<p>Ammunition. Damage 1-2 / 1-2.</p><p>Made only by the best arrowsmiths; very rare and found only in large cities. A pottery bulb on the shaft holds grenade powder. Blinds the target for 1-6 rounds.</p><p><strong>Armor class adjustments</strong> (Dragon #146; apply by hand in place of the bow's): daikyu AC 2 -1, AC 3 -1, AC 4 0, AC 5 0, AC 6 0, AC 7 +1, AC 8 -1, AC 9 +2, AC 10 +3; hankyu AC 2 -4, AC 3 -3, AC 4 -2, AC 5 -2, AC 6 -1, AC 7 0, AC 8 0, AC 9 +1, AC 10 +1. Short composite bow: the hankyu figures -1; short bow: -2.</p><p class=\"oa-src\">Dragon #146 p.80-81. Rewritten in plain words; cost converted with OA Table 46.</p>",
+   "quantity": 1,
+   "weightSource": "unspecified",
+   "weightRef": "The article gives no weight"
+  }
+ },
+ {
+  "name": "Arrow, hollow-tip (gas)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "Ammunition",
+  "system": {
+   "category": "Ammunition",
+   "cost": "15 gp",
+   "source": "Dragon #146 p.80-81",
+   "carried": true,
+   "ammo": "arrow",
+   "weight": 0,
+   "description": "<p>Ammunition. Damage 1-2 / 1-2.</p><p>Made only by the best arrowsmiths; very rare and found only in large cities. A pottery bulb on the shaft holds grenade powder. Affects the target that round, spreading to a 5-foot radius; others in it are affected next round; gone on the third.</p><p><strong>Armor class adjustments</strong> (Dragon #146; apply by hand in place of the bow's): daikyu AC 2 -1, AC 3 -1, AC 4 0, AC 5 0, AC 6 0, AC 7 +1, AC 8 -1, AC 9 +2, AC 10 +3; hankyu AC 2 -4, AC 3 -3, AC 4 -2, AC 5 -2, AC 6 -1, AC 7 0, AC 8 0, AC 9 +1, AC 10 +1. Short composite bow: the hankyu figures -1; short bow: -2.</p><p class=\"oa-src\">Dragon #146 p.80-81. Rewritten in plain words; cost converted with OA Table 46.</p>",
+   "quantity": 1,
+   "weightSource": "unspecified",
+   "weightRef": "The article gives no weight"
+  }
+ },
+ {
+  "name": "Arrow, hollow-tip (poison)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "Ammunition",
+  "system": {
+   "category": "Ammunition",
+   "cost": "10 gp",
+   "source": "Dragon #146 p.80-81",
+   "carried": true,
+   "ammo": "arrow",
+   "weight": 0,
+   "description": "<p>Ammunition. Damage 1-2 / 1-2.</p><p>Made only by the best arrowsmiths; very rare and found only in large cities. A pottery bulb on the shaft holds grenade powder. Affects a 5-foot circle; insinuative poisons only (DMG p.20-21).</p><p><strong>Armor class adjustments</strong> (Dragon #146; apply by hand in place of the bow's): daikyu AC 2 -1, AC 3 -1, AC 4 0, AC 5 0, AC 6 0, AC 7 +1, AC 8 -1, AC 9 +2, AC 10 +3; hankyu AC 2 -4, AC 3 -3, AC 4 -2, AC 5 -2, AC 6 -1, AC 7 0, AC 8 0, AC 9 +1, AC 10 +1. Short composite bow: the hankyu figures -1; short bow: -2.</p><p class=\"oa-src\">Dragon #146 p.80-81. Rewritten in plain words; cost converted with OA Table 46.</p>",
+   "quantity": 1,
+   "weightSource": "unspecified",
+   "weightRef": "The article gives no weight"
+  }
+ },
+ {
+  "name": "Arrow, hollow-tip (pepper)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "Ammunition",
+  "system": {
+   "category": "Ammunition",
+   "cost": "1 gp",
+   "source": "Dragon #146 p.80-81",
+   "carried": true,
+   "ammo": "arrow",
+   "weight": 0,
+   "description": "<p>Ammunition. Damage 1-2 / 1-2.</p><p>Made only by the best arrowsmiths; very rare and found only in large cities. A pottery bulb on the shaft holds grenade powder. The target has +2 on its save (usually versus poison, or sneeze for 2-8 segments: no spells and -1 to hit that round).</p><p><strong>Armor class adjustments</strong> (Dragon #146; apply by hand in place of the bow's): daikyu AC 2 -1, AC 3 -1, AC 4 0, AC 5 0, AC 6 0, AC 7 +1, AC 8 -1, AC 9 +2, AC 10 +3; hankyu AC 2 -4, AC 3 -3, AC 4 -2, AC 5 -2, AC 6 -1, AC 7 0, AC 8 0, AC 9 +1, AC 10 +1. Short composite bow: the hankyu figures -1; short bow: -2.</p><p class=\"oa-src\">Dragon #146 p.80-81. Rewritten in plain words; cost converted with OA Table 46.</p>",
+   "quantity": 1,
+   "weightSource": "unspecified",
+   "weightRef": "The article gives no weight"
+  }
+ },
+ {
+  "name": "Arrow, fishing",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "Ammunition",
+  "system": {
+   "category": "Ammunition",
+   "cost": "1 sp",
+   "source": "Dragon #146 p.80-81",
+   "carried": true,
+   "ammo": "arrow",
+   "weight": 0,
+   "description": "<p>Ammunition. Damage 1-6 / 1-4.</p><p>Barbs along the shaft do 1-6 more if it is pulled out carelessly; careful removal takes 2-5 rounds. Tied to a rope and shot into wood, a person up to 200 lbs climbing pulls it loose only on 1-2 on 1d6 (a normal arrow on 1-4).</p><p><strong>Armor class adjustments</strong> (Dragon #146; apply by hand in place of the bow's): daikyu AC 2 0, AC 3 0, AC 4 0, AC 5 +1, AC 6 +2, AC 7 +2, AC 8 +3, AC 9 +3, AC 10 +4; hankyu AC 2 -5, AC 3 -4, AC 4 -3, AC 5 -1, AC 6 -1, AC 7 0, AC 8 0, AC 9 +1, AC 10 +2. Short composite bow: the hankyu figures -1; short bow: -2.</p><p class=\"oa-src\">Dragon #146 p.80-81. Rewritten in plain words; cost converted with OA Table 46.</p>",
+   "quantity": 1,
+   "weightSource": "unspecified",
+   "weightRef": "The article gives no weight"
+  }
+ },
+ {
+  "name": "Shinobi shozoku",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "folder": "Clothing",
+  "system": {
+   "category": "Clothing",
+   "cost": "6 sp",
+   "source": "Dragon #121 p.43",
+   "carried": true,
+   "ammo": "",
+   "weight": 0,
+   "description": "<p>The genin's usual adventuring clothes: a light suit of jacket, hood, trousers and tabi boots, reddish black and reversible with a dark blue lining, with enough pockets for all his usual gear. (Printed cost 12 yuan.)</p><p class=\"oa-src\">Dragon #121 p.43. Rewritten in plain words; cost converted with OA Table 46.</p>",
+   "quantity": 1,
+   "weightSource": "unspecified",
+   "weightRef": "The article gives no weight"
+  }
+ }
+]

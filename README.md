@@ -75,5 +75,5 @@ Switch it on in the world (with OA Lite) and accept the offer to build the OA Dr
 
 ## Changes
 
-- 0.1.1: the genin and both sumotori now appear in the OA tab's "Ki uses today" box (needs OA Lite 0.1.2 or later).
+- 0.1.1: the genin and both sumotori now appear in the OA tab's "Ki uses today" box (needs OA Lite 0.1.2 or later). Dragon maneuvers that make an attack (scissors kick, double kick, double-fist punch, crushing hug, crushing drop, thunderpunch, the slash and blunt maneuvers, pause and silence, reflection, strong slap and stunning slap) now get an Attack button on the OA tab: it rolls to hit with the chosen style and puts the maneuver's damage and effect on the chat card. Arrow cutting, slowed aging, controlled breathing, quick strike and flowing water are marked as always in effect. The rest keep the Show button.
 - 0.1.0: first release.

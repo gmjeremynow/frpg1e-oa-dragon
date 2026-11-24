@@ -5,6 +5,7 @@
  */
 import { CLASSES, SPELLS, DRAGON_CLASS_KEYS, dragonFeatures } from "./classes.mjs";
 import { offerImport, importCompendia } from "./compendia.mjs";
+import { registerDragonManeuvers } from "./maneuvers.mjs";
 
 export const MID = "frpg1e-oa-dragon";
 const LITE = () => !!game.modules.get("frpg1e-oa-lite")?.active;
@@ -49,6 +50,8 @@ Hooks.once("init", () => {
 
 Hooks.once("ready", () => {
   if (OFF) { ui.notifications.error(OFF, { permanent: true }); return; }
+  // maneuver attack buttons on the OA tab (needs OA Lite 0.1.2 or later)
+  if (game.oaLite?.registerManeuver) registerDragonManeuvers(game.oaLite.registerManeuver);
   // ki uses for the OA tab's "Ki uses today" box (needs OA Lite 0.1.2 or later)
   const reg = game.oaLite?.registerKi;
   if (reg) {

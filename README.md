@@ -1,4 +1,4 @@
-# OA Dragon for 1e FRPG, v0.1.1
+# OA Dragon for 1e FRPG, v0.1.2
 
 An optional add-on for the OA Lite module (frpg1e-oa-lite, 0.1.1 or later) on the 1e FRPG system for Foundry VTT (system 0.48.0 or later, Foundry V14). It brings in OA material from eight issues of Dragon Magazine, restated in plain words. Turn the module on or off in Manage Modules.
 
@@ -75,5 +75,6 @@ Switch it on in the world (with OA Lite) and accept the offer to build the OA Dr
 
 ## Changes
 
+- 0.1.2: the Dragon class boxes now sit with the other class boxes on OA Lite 0.1.3's new OA tab layout, below the martial arts, ki and slot boxes.
 - 0.1.1: the genin and both sumotori now appear in the OA tab's "Ki uses today" box (needs OA Lite 0.1.2 or later). Dragon maneuvers that make an attack (scissors kick, double kick, double-fist punch, crushing hug, crushing drop, thunderpunch, the slash and blunt maneuvers, pause and silence, reflection, strong slap and stunning slap) now get an Attack button on the OA tab: it rolls to hit with the chosen style and puts the maneuver's damage and effect on the chat card. Arrow cutting, slowed aging, controlled breathing, quick strike and flowing water are marked as always in effect. The rest keep the Show button.
 - 0.1.0: first release.

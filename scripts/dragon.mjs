@@ -100,6 +100,8 @@ Hooks.on("renderCharacterSheet", (app, element) => {
     if (!tab) return;
     tab.querySelectorAll(".oa-dragon").forEach(n => n.remove());
     const html = boxHTML(actor);
-    if (html) tab.insertAdjacentHTML("afterbegin", html);
+    // after OA Lite's own class boxes (the martial arts and ki boxes stay at the top)
+    const cls = tab.querySelector(".oa-classes");
+    if (html) (cls ?? tab).insertAdjacentHTML(cls ? "beforeend" : "afterbegin", html);
   }, 0);
 });

@@ -49,6 +49,16 @@ Hooks.once("init", () => {
 
 Hooks.once("ready", () => {
   if (OFF) { ui.notifications.error(OFF, { permanent: true }); return; }
+  // ki uses for the OA tab's "Ki uses today" box (needs OA Lite 0.1.2 or later)
+  const reg = game.oaLite?.registerKi;
+  if (reg) {
+    reg("genin", L => [{ id: "breath", label: `Hold breath ${L} rounds, as a ninja (OA p.21)`, max: 1 },
+      ...(L >= 5 ? [{ id: "water", label: `Walk on water, ${5 * L} ft, as a ninja (OA p.21)`, max: L }] : []),
+      ...(L >= 12 ? [{ id: "walls", label: "Pass through walls, as a ninja (OA p.21)", max: 1, all: true }] : [])]);
+    reg("sumotoriWieck", L => L >= 2 ? [{ id: "str", label: `Strength boost: rounds plus strength points gained equal ${L} (Dragon #157 p.38)`, max: 1 }] : []);
+    reg("sumotoriCarpenter", L => [{ id: "str", label: "Strength 18/00, over 250 lbs only (Dragon #157 p.35)", max: L },
+      ...(L >= 8 ? [{ id: "str19", label: "Strength 19, over 250 lbs only (Dragon #157 p.35)", max: 2 }] : [])]);
+  }
   if (game.user.isGM) offerImport();
 });
 

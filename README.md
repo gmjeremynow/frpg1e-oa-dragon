@@ -1,4 +1,4 @@
-# OA Dragon for 1e FRPG, v0.1.0
+# OA Dragon for 1e FRPG, v0.1.1
 
 An optional add-on for the OA Lite module (frpg1e-oa-lite, 0.1.1 or later) on the 1e FRPG system for Foundry VTT (system 0.48.0 or later, Foundry V14). It brings in OA material from eight issues of Dragon Magazine, restated in plain words. Turn the module on or off in Manage Modules.
 
@@ -72,3 +72,8 @@ Switch it on in the world (with OA Lite) and accept the offer to build the OA Dr
 - Piao shih: the text makes 11th level "Master of Escorts"; the level table calls 11th "Captain of Escorts" and 12th "Master of Escorts".
 - Grenade size: a vial of holy water (#121), a flask of oil (#151).
 - The black lotus: the text says nothing can save a doomed victim; a rules note gives neutralize poison 5% per caster level.
+
+## Changes
+
+- 0.1.1: the genin and both sumotori now appear in the OA tab's "Ki uses today" box (needs OA Lite 0.1.2 or later).
+- 0.1.0: first release.
